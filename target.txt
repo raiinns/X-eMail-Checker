@@ -1,0 +1,5 @@
+target1@gmail.com
+target2@gmail.com
+target3@gmail.com
+target4@gmail.com
+(max 10 line)
